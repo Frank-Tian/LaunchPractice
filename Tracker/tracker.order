@@ -1,0 +1,17 @@
+_main
+-[AppDelegate application:didFinishLaunchingWithOptions:]
+-[SceneDelegate window]
+-[SceneDelegate setWindow:]
+-[SceneDelegate scene:willConnectToSession:options:]
+-[ViewController viewDidLoad]
+_testCFunc
+_myBlock_block_invoke
+_$s7Tracker7UserSDKC5loginyyFZTo
+_$s7Tracker7UserSDKC5loginyyFZ
+_$ss27_finalizeUninitializedArrayySayxGABnlF
+_$sSa12_endMutationyyF
+_$ss5print_9separator10terminatoryypd_S2StFfA0_
+_$ss5print_9separator10terminatoryypd_S2StFfA1_
+-[SceneDelegate sceneWillEnterForeground:]
+-[SceneDelegate sceneDidBecomeActive:]
+-[ViewController viewDidAppear:]

@@ -15,7 +15,7 @@ mkdir -p "${SRCROOT}/Temp"
 unzip -oqq "$TARGET_IPA_PATH" -d "$TEMP_PATH"
 # 拿到解压的临时的APP的路径
 TEMP_APP_PATH=$(set -- "$TEMP_PATH/Payload/"*.app;echo "$1")
-# echo "路径是:$TEMP_APP_PATH"
+echo "路径是:$TEMP_APP_PATH"
 
 
 #----------------------------------------
